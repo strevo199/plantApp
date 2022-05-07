@@ -1,0 +1,12 @@
+export const plant1 = require('../../assets/images/plant1.jpg');
+export const plant2 = require('../../assets/images/plant2.jpg');
+export const plant4 = require('../../assets/images/plant4.jpg');
+export const plant5 = require('../../assets/images/plant5.jpg');
+export const plant6 = require('../../assets/images/plant6.jpg');
+export const plant3 = require('../../assets/images/plant3.jpg');
+export const profile1 = require('../../assets/images/profile1.jpg');
+export const profile2 = require('../../assets/images/profile2.jpg');
+export const profile3 = require('../../assets/images/profile3.jpg');
+export const profile4 = require('../../assets/images/profile4.jpg');
+export const profile5 = require('../../assets/images/profile5.jpg');
+export const profile6 = require('../../assets/images/profile6.jpg');
